@@ -1,0 +1,20 @@
+gc is 17462
+NO
+gc is 1
+YES
+gc is 93591
+NO
+gc is 1
+YES
+gc is 5363
+NO
+gc is 13649
+NO
+gc is 23525
+NO
+gc is 1
+YES
+gc is 3
+YES
+gc is 37125
+NO
